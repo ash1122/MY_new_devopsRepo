@@ -1,0 +1,10 @@
+{"timestamp":2013664,"category":"fog.validation","name":"validate_early_event"}
+{"timestamp":2028167,"category":"nimbus_events","name":"enrollment","extra":{"branch":"enable-csv-import","experiment":"csv-import-release-rollout","enrollment_id":"8f6dc26b-796e-488a-9681-7d6d07ed3f3d","experiment_type":"rollout"}}
+{"timestamp":2028200,"category":"nimbus_events","name":"enrollment","extra":{"branch":"rollout","enrollment_id":"a06dcc4d-d024-4fa9-83c5-c190db7a3e9d","experiment_type":"rollout","experiment":"ech-roll-out"}}
+{"timestamp":2028701,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"mixed-content-level-2-roll-out-release-113","experiment_type":"rollout","enrollment_id":"00e52c9a-930f-49a7-84df-fab6c8d333ac","branch":"control"}}
+{"timestamp":2029039,"category":"nimbus_events","name":"enrollment","extra":{"experiment":"serp-ad-telemetry-rollout","experiment_type":"rollout","branch":"control","enrollment_id":"5358c9e2-1088-4ccb-bc46-49a2da8e15b2"}}
+{"timestamp":2029093,"category":"nimbus_events","name":"enrollment","extra":{"experiment_type":"rollout","enrollment_id":"51045c33-485d-41bc-88c9-dd046f312d75","experiment":"upgrade-spotlight-rollout","branch":"treatment"}}
+{"timestamp":2029097,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers","feature":"accessibilityCache"}}
+{"timestamp":2029097,"category":"nimbus_events","name":"validation_failed","extra":{"feature":"accessibilityCache","reason":"invalid-feature","experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy"}}
+{"timestamp":2043856,"category":"nimbus_events","name":"validation_failed","extra":{"reason":"invalid-feature","feature":"accessibilityCache","experiment":"next-generation-accessibility-engine-powering-screen-readers"}}
+{"timestamp":2043857,"category":"nimbus_events","name":"validation_failed","extra":{"experiment":"next-generation-accessibility-engine-powering-screen-readers-and-other-ats-copy","reason":"invalid-feature","feature":"accessibilityCache"}}
